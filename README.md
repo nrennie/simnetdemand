@@ -1,5 +1,6 @@
-<h1 align="center">
-simnetdemand </h1>
+# simnetdemand <img src="simnetdemand.png" align="right" width="120" />
+
+## Installation
 
 Install using:
 ``` r
