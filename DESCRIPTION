@@ -1,6 +1,6 @@
 Package: simnetdemand
 Title: Simulate Network Demand
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person(given = "Nicola",
            family = "Rennie",
