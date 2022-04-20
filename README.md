@@ -1,4 +1,4 @@
-# simnetdemand <img src="simnetdemand.png" align="right" width="120" />
+# simnetdemand <img src="https://github.com/nrennie/simnetdemand/blob/main/man/figures/simnetdemand.png?raw=true" align="right" width="120" />
 
 ## Installation
 
@@ -10,3 +10,9 @@ or
 ``` r
 remotes::install_github("nrennie/simnetdemand")
 ```
+
+## How To Use
+
+* Simulate and forecast demand
+* Calculate booking limits
+* Simulate booking process

@@ -4,3 +4,7 @@ drafts/
 .lintr
 simnetdemand.png
 .github
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
