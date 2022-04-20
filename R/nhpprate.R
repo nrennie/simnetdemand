@@ -10,7 +10,8 @@
 #' @param n Total number of time points that will be generated. Default 3000.
 #' @return A numeric value.
 #' @export
-nhpprate <- function(A = 240, #nolint
+
+nhpprate <- function(A = 240,
                      a = 1,
                      b = 1,
                      phi = 1,
