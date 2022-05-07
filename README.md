@@ -1,4 +1,4 @@
-# simnetdemand <img src="https://github.com/nrennie/simnetdemand/blob/main/man/figures/simnetdemand.png?raw=true" align="right" width="120" />
+# simnetdemand <img src="man/figures/logo.png" align="right" width="120" />
 
 ## Installation
 

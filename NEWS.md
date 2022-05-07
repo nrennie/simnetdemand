@@ -1,4 +1,6 @@
-# simnetdemand
+## simnetdemand 1.0.2 2022_05_07
+
+* update license
 
 ## simnetdemand 1.0.1 2022_04_20
 
