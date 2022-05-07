@@ -1,13 +1,13 @@
 Package: simnetdemand
 Title: Simulate Network Demand
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     person(given = "Nicola",
            family = "Rennie",
            role = c("aut", "cre"),
            email = "nrennie35@gmail.com")
 Description: Simulates demand patterns for different types of transport network.
-License: GPL (>= 2)
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

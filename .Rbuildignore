@@ -8,3 +8,4 @@ simnetdemand.png
 ^docs$
 ^pkgdown$
 ^\.github$
+^LICENSE\.md$
