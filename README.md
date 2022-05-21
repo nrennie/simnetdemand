@@ -1,3 +1,7 @@
+<!-- badges: start -->
+  [![R-CMD-check](https://github.com/nrennie/simnetdemand/workflows/R-CMD-check/badge.svg)](https://github.com/nrennie/simnetdemand/actions)
+<!-- badges: end -->
+
 # simnetdemand <img src="man/figures/logo.png" align="right" width="120" />
 
 ## Installation
