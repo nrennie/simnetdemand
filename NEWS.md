@@ -1,3 +1,8 @@
+## simnetdemand 1.0.4 2022_08_27
+
+* update GitHub actions
+* update linting
+
 ## simnetdemand 1.0.3 2022_05_07
 
 * update pkgdown theme

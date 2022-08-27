@@ -23,12 +23,10 @@ emsr_limits <- function(fares,
     if ((fares[j + 1] / (sum(fares[1:j] * means[1:j]) / m)) >= 1) {
       if (j == 1) {
         prolimits[j] <- 0
-      }
-      else {
+      } else {
         prolimits[j] <- prolimits[j - 1]
       }
-    }
-    else {
+    } else {
       prolimits[j] <- round(min(max(0,
                                     stats::qnorm(
                                       (1 - (fares[j + 1] / (sum(fares[1:j] * means[1:j]) / m))),

@@ -12,8 +12,7 @@ agg_bh <- function(data,
   k <- length(data) / bh_len
   if (k %% 1 != 0) {
     return("vector not an integer multiple of booking horizon")
-  }
-  else {
+  } else {
     output <- unname(tapply(data, (seq_along(data) - 1) %/% k, sum))
     return(output)
   }
